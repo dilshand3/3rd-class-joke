@@ -17,6 +17,11 @@
     color: white;
     margin-top: 8px;
 }
+.main h2 {
+    text-align: center;
+    color: white;
+    margin-top: 12px;
+}
 
 .content1 {
     height: 400px;
